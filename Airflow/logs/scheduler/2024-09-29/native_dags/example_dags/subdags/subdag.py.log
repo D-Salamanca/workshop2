@@ -1,0 +1,395 @@
+[2024-09-28T23:58:02.008-0500] {processor.py:186} INFO - Started process (PID=25584) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-28T23:58:02.009-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-28T23:58:02.012-0500] {logging_mixin.py:190} INFO - [2024-09-28T23:58:02.011-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-28T23:58:02.014-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-28T23:58:02.027-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.060 seconds
+[2024-09-29T00:18:31.744-0500] {processor.py:186} INFO - Started process (PID=28545) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:18:31.760-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:18:31.764-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:18:31.763-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:18:31.768-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:18:31.784-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.059 seconds
+[2024-09-29T00:20:05.885-0500] {processor.py:186} INFO - Started process (PID=28656) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:20:05.915-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:20:05.920-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:20:05.919-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:20:05.925-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:20:05.939-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.062 seconds
+[2024-09-29T00:20:56.338-0500] {processor.py:186} INFO - Started process (PID=28712) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:20:56.339-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:20:56.342-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:20:56.341-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:20:56.344-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:20:56.358-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-09-29T00:21:47.951-0500] {processor.py:186} INFO - Started process (PID=28745) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:21:47.953-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:21:47.957-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:21:47.956-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:21:47.961-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:21:47.976-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2024-09-29T00:22:38.907-0500] {processor.py:186} INFO - Started process (PID=28786) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:22:38.908-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:22:38.911-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:22:38.910-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:22:38.913-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:22:38.926-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2024-09-29T00:23:22.657-0500] {processor.py:186} INFO - Started process (PID=28821) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:23:22.658-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:23:22.663-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:23:22.661-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:23:22.666-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:23:22.683-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2024-09-29T00:24:07.150-0500] {processor.py:186} INFO - Started process (PID=28858) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:24:07.151-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:24:07.154-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:24:07.153-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:24:07.157-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:24:07.171-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2024-09-29T00:24:47.098-0500] {processor.py:186} INFO - Started process (PID=28894) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:24:47.100-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:24:47.103-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:24:47.102-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:24:47.106-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:24:47.123-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2024-09-29T00:25:28.790-0500] {processor.py:186} INFO - Started process (PID=28930) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:25:28.791-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:25:28.795-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:25:28.794-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:25:28.798-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:25:28.812-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2024-09-29T00:26:21.652-0500] {processor.py:186} INFO - Started process (PID=28966) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:26:21.654-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:26:21.657-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:26:21.656-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:26:21.660-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:26:21.676-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2024-09-29T00:27:06.374-0500] {processor.py:186} INFO - Started process (PID=29051) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:27:06.375-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:27:06.378-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:27:06.378-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:27:06.382-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:27:06.400-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2024-09-29T00:27:56.491-0500] {processor.py:186} INFO - Started process (PID=29127) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:27:56.492-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:27:56.496-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:27:56.495-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:27:56.499-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:27:56.513-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2024-09-29T00:28:47.783-0500] {processor.py:186} INFO - Started process (PID=29180) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:28:47.810-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:28:47.814-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:28:47.813-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:28:47.817-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:28:47.832-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.059 seconds
+[2024-09-29T00:30:15.497-0500] {processor.py:186} INFO - Started process (PID=29261) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:30:15.499-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:30:15.505-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:30:15.504-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:30:15.569-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:30:15.586-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.099 seconds
+[2024-09-29T00:31:25.379-0500] {processor.py:186} INFO - Started process (PID=29313) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:31:25.380-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:31:25.383-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:31:25.383-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:31:25.386-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:31:25.400-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2024-09-29T00:32:15.605-0500] {processor.py:186} INFO - Started process (PID=29352) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:32:15.606-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:32:15.609-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:32:15.608-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:32:15.612-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:32:15.626-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-09-29T00:32:53.704-0500] {processor.py:186} INFO - Started process (PID=29387) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:32:53.705-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:32:53.710-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:32:53.709-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:32:53.713-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:32:53.727-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2024-09-29T00:33:37.442-0500] {processor.py:186} INFO - Started process (PID=29432) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:33:37.443-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:33:37.446-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:33:37.445-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:33:37.448-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:33:37.463-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2024-09-29T00:34:22.248-0500] {processor.py:186} INFO - Started process (PID=29496) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:34:22.298-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T00:34:22.303-0500] {logging_mixin.py:190} INFO - [2024-09-29T00:34:22.302-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:34:22.369-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T00:34:22.391-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.154 seconds
+[2024-09-29T08:19:53.551-0500] {processor.py:186} INFO - Started process (PID=29713) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:19:53.579-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:19:53.583-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:19:53.582-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:19:53.607-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:19:53.625-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.084 seconds
+[2024-09-29T08:20:54.407-0500] {processor.py:186} INFO - Started process (PID=29808) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:20:54.458-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:20:54.462-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:20:54.461-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:20:54.555-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:20:54.574-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.177 seconds
+[2024-09-29T08:21:58.681-0500] {processor.py:186} INFO - Started process (PID=29860) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:21:58.683-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:21:58.688-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:21:58.687-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:21:58.693-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:21:58.707-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.037 seconds
+[2024-09-29T08:22:57.196-0500] {processor.py:186} INFO - Started process (PID=29901) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:22:57.212-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:22:57.215-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:22:57.214-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:22:57.266-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:22:57.290-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.105 seconds
+[2024-09-29T08:23:44.481-0500] {processor.py:186} INFO - Started process (PID=29940) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:23:44.482-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:23:44.486-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:23:44.485-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:23:44.489-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:23:44.504-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2024-09-29T08:24:26.979-0500] {processor.py:186} INFO - Started process (PID=29977) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:24:26.980-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:24:26.983-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:24:26.982-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:24:26.985-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:24:27.006-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.035 seconds
+[2024-09-29T08:25:07.447-0500] {processor.py:186} INFO - Started process (PID=30045) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:25:07.449-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:25:07.451-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:25:07.451-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:25:07.454-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:25:07.467-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-09-29T08:25:52.027-0500] {processor.py:186} INFO - Started process (PID=30080) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:25:52.057-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:25:52.062-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:25:52.061-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:25:52.127-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:25:52.150-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.132 seconds
+[2024-09-29T08:26:34.572-0500] {processor.py:186} INFO - Started process (PID=30115) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:26:34.573-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:26:34.575-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:26:34.575-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:26:34.578-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:26:34.592-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-09-29T08:27:15.629-0500] {processor.py:186} INFO - Started process (PID=30149) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:27:15.651-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:27:15.656-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:27:15.655-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:27:15.660-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:27:15.679-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.058 seconds
+[2024-09-29T08:27:51.957-0500] {processor.py:186} INFO - Started process (PID=30182) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:27:51.958-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:27:51.961-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:27:51.960-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:27:51.963-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:27:51.977-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2024-09-29T08:28:29.302-0500] {processor.py:186} INFO - Started process (PID=30216) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:28:29.304-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:28:29.307-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:28:29.306-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:28:29.310-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:28:29.324-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2024-09-29T08:29:09.163-0500] {processor.py:186} INFO - Started process (PID=30251) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:29:09.165-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:29:09.171-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:29:09.170-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:29:09.175-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:29:09.188-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2024-09-29T08:29:52.432-0500] {processor.py:186} INFO - Started process (PID=30286) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:29:52.434-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:29:52.437-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:29:52.436-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:29:52.440-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:29:52.453-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-09-29T08:30:36.884-0500] {processor.py:186} INFO - Started process (PID=30328) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:30:36.885-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:30:36.887-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:30:36.887-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:30:36.890-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:30:36.903-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2024-09-29T08:31:24.808-0500] {processor.py:186} INFO - Started process (PID=30374) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:31:24.810-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:31:24.812-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:31:24.812-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:31:24.815-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:31:24.829-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2024-09-29T08:32:12.330-0500] {processor.py:186} INFO - Started process (PID=30411) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:32:12.331-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:32:12.334-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:32:12.333-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:32:12.336-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:32:12.350-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2024-09-29T08:33:02.418-0500] {processor.py:186} INFO - Started process (PID=30449) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:33:02.420-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:33:02.424-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:33:02.423-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:33:02.426-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:33:02.440-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.036 seconds
+[2024-09-29T08:33:41.721-0500] {processor.py:186} INFO - Started process (PID=30488) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:33:41.722-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:33:41.725-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:33:41.725-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:33:41.728-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:33:41.742-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2024-09-29T08:34:21.513-0500] {processor.py:186} INFO - Started process (PID=30518) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:34:21.515-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:34:21.521-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:34:21.519-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:34:21.527-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:34:21.545-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2024-09-29T08:35:09.670-0500] {processor.py:186} INFO - Started process (PID=30571) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:35:09.672-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:35:09.675-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:35:09.675-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:35:09.679-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:35:09.696-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2024-09-29T08:36:26.079-0500] {processor.py:186} INFO - Started process (PID=30900) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:36:26.166-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:36:26.173-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:36:26.172-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:36:26.445-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:36:26.467-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.397 seconds
+[2024-09-29T08:37:44.830-0500] {processor.py:186} INFO - Started process (PID=31032) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:37:44.876-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:37:44.881-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:37:44.880-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:37:44.885-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:37:44.900-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.078 seconds
+[2024-09-29T08:38:24.691-0500] {processor.py:186} INFO - Started process (PID=31068) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:38:24.692-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:38:24.695-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:38:24.694-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:38:24.697-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:38:24.711-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2024-09-29T08:39:06.972-0500] {processor.py:186} INFO - Started process (PID=31104) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:39:07.002-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:39:07.008-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:39:07.007-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:39:07.013-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:39:07.027-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.069 seconds
+[2024-09-29T08:39:54.636-0500] {processor.py:186} INFO - Started process (PID=31139) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:39:54.637-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:39:54.642-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:39:54.641-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:39:54.646-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:39:54.662-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2024-09-29T08:40:42.217-0500] {processor.py:186} INFO - Started process (PID=31181) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:40:42.219-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:40:42.221-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:40:42.221-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:40:42.224-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:40:42.238-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2024-09-29T08:41:29.922-0500] {processor.py:186} INFO - Started process (PID=31217) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:41:29.923-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:41:29.925-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:41:29.925-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:41:29.928-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:41:29.942-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-09-29T08:42:13.781-0500] {processor.py:186} INFO - Started process (PID=31254) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:42:13.782-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:42:13.785-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:42:13.784-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:42:13.788-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:42:13.802-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-09-29T08:42:59.524-0500] {processor.py:186} INFO - Started process (PID=31289) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:42:59.525-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:42:59.528-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:42:59.528-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:42:59.530-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:42:59.544-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2024-09-29T08:43:45.298-0500] {processor.py:186} INFO - Started process (PID=31326) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:43:45.299-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:43:45.302-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:43:45.302-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:43:45.305-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:43:45.319-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2024-09-29T08:44:25.942-0500] {processor.py:186} INFO - Started process (PID=31360) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:44:25.943-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:44:25.945-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:44:25.945-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:44:25.972-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:44:25.990-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.056 seconds
+[2024-09-29T08:45:07.283-0500] {processor.py:186} INFO - Started process (PID=31407) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:45:07.284-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:45:07.287-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:45:07.286-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:45:07.290-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:45:07.304-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2024-09-29T08:45:50.845-0500] {processor.py:186} INFO - Started process (PID=31443) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:45:50.846-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:45:50.849-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:45:50.849-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:45:50.852-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:45:50.865-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-09-29T08:47:04.348-0500] {processor.py:186} INFO - Started process (PID=31479) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:47:04.374-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:47:04.379-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:47:04.378-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:47:04.384-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:47:04.398-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.057 seconds
+[2024-09-29T08:47:50.811-0500] {processor.py:186} INFO - Started process (PID=31515) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:47:50.813-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:47:50.815-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:47:50.815-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:47:50.818-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:47:50.830-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2024-09-29T08:48:33.465-0500] {processor.py:186} INFO - Started process (PID=31566) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:48:33.466-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:48:33.469-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:48:33.468-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:48:33.471-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:48:33.485-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-09-29T08:49:15.130-0500] {processor.py:186} INFO - Started process (PID=31604) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:49:15.131-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:49:15.134-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:49:15.133-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:49:15.137-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:49:15.151-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2024-09-29T08:50:00.670-0500] {processor.py:186} INFO - Started process (PID=31641) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:50:00.672-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:50:00.674-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:50:00.674-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:50:00.677-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:50:00.691-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2024-09-29T08:50:46.857-0500] {processor.py:186} INFO - Started process (PID=31695) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:50:46.859-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:50:46.862-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:50:46.862-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:50:46.865-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:50:46.880-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2024-09-29T08:52:19.906-0500] {processor.py:186} INFO - Started process (PID=31940) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:52:19.936-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:52:19.939-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:52:19.939-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:52:19.961-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:52:19.977-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.081 seconds
+[2024-09-29T08:53:29.966-0500] {processor.py:186} INFO - Started process (PID=31995) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:53:30.009-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:53:30.014-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:53:30.013-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:53:30.050-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:53:30.068-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.111 seconds
+[2024-09-29T08:54:18.558-0500] {processor.py:186} INFO - Started process (PID=32032) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:54:18.559-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:54:18.562-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:54:18.561-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:54:18.564-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:54:18.578-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2024-09-29T08:55:05.959-0500] {processor.py:186} INFO - Started process (PID=32073) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:55:05.974-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:55:05.977-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:55:05.976-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:55:05.979-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:55:05.993-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2024-09-29T08:55:51.790-0500] {processor.py:186} INFO - Started process (PID=32109) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:55:51.791-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:55:51.793-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:55:51.793-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:55:51.813-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:55:51.829-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.056 seconds
+[2024-09-29T08:56:48.496-0500] {processor.py:186} INFO - Started process (PID=32148) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:56:48.498-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:56:48.501-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:56:48.500-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:56:48.503-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:56:48.517-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2024-09-29T08:57:44.135-0500] {processor.py:186} INFO - Started process (PID=32191) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:57:44.233-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:57:44.236-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:57:44.236-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:57:44.239-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:57:44.258-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.132 seconds
+[2024-09-29T08:58:33.550-0500] {processor.py:186} INFO - Started process (PID=32229) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:58:33.551-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:58:33.553-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:58:33.553-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:58:33.556-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:58:33.569-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-09-29T08:59:29.483-0500] {processor.py:186} INFO - Started process (PID=32397) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:59:29.529-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T08:59:29.534-0500] {logging_mixin.py:190} INFO - [2024-09-29T08:59:29.533-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:59:29.665-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T08:59:29.687-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.220 seconds
+[2024-09-29T09:00:31.766-0500] {processor.py:186} INFO - Started process (PID=32532) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:00:31.783-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T09:00:31.786-0500] {logging_mixin.py:190} INFO - [2024-09-29T09:00:31.785-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:00:31.812-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:00:31.830-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.075 seconds
+[2024-09-29T09:01:25.666-0500] {processor.py:186} INFO - Started process (PID=32571) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:01:25.667-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T09:01:25.669-0500] {logging_mixin.py:190} INFO - [2024-09-29T09:01:25.669-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:01:25.672-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:01:25.686-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-09-29T09:02:15.164-0500] {processor.py:186} INFO - Started process (PID=32610) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:02:15.165-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T09:02:15.168-0500] {logging_mixin.py:190} INFO - [2024-09-29T09:02:15.167-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:02:15.170-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:02:15.184-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-09-29T09:02:57.931-0500] {processor.py:186} INFO - Started process (PID=32645) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:02:57.932-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T09:02:57.935-0500] {logging_mixin.py:190} INFO - [2024-09-29T09:02:57.934-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:02:57.937-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:02:57.951-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-09-29T09:03:39.094-0500] {processor.py:186} INFO - Started process (PID=32680) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:03:39.095-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T09:03:39.098-0500] {logging_mixin.py:190} INFO - [2024-09-29T09:03:39.097-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:03:39.100-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:03:39.114-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2024-09-29T09:04:23.690-0500] {processor.py:186} INFO - Started process (PID=32741) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:04:23.692-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T09:04:23.697-0500] {logging_mixin.py:190} INFO - [2024-09-29T09:04:23.696-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:04:23.701-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:04:23.724-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.266 seconds
+[2024-09-29T09:05:29.763-0500] {processor.py:186} INFO - Started process (PID=33033) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:05:29.784-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T09:05:29.787-0500] {logging_mixin.py:190} INFO - [2024-09-29T09:05:29.787-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:05:29.821-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:05:29.841-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.086 seconds
+[2024-09-29T09:06:45.046-0500] {processor.py:186} INFO - Started process (PID=33074) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:06:45.123-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T09:06:45.128-0500] {logging_mixin.py:190} INFO - [2024-09-29T09:06:45.127-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:06:45.184-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:06:45.211-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.175 seconds
+[2024-09-29T09:07:34.570-0500] {processor.py:186} INFO - Started process (PID=33118) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:07:34.572-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T09:07:34.575-0500] {logging_mixin.py:190} INFO - [2024-09-29T09:07:34.574-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:07:34.577-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:07:34.593-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2024-09-29T09:08:09.697-0500] {processor.py:186} INFO - Started process (PID=33150) to work on /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:08:09.701-0500] {processor.py:914} INFO - Processing file /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-29T09:08:09.704-0500] {logging_mixin.py:190} INFO - [2024-09-29T09:08:09.704-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:08:09.713-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-29T09:08:09.728-0500] {processor.py:208} INFO - Processing /home/d-salamanca/airflow-env/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.064 seconds
