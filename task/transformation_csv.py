@@ -1,65 +1,62 @@
-import pandas as pd
+import pandas as pd  # Importar pandas
 
 class Transformations:
-
     def __init__(self, file):
+        # Inicializa el DataFrame a partir del archivo CSV
         self.df = pd.read_csv(file, sep=',', encoding='utf-8')
 
     def insert_id(self) -> None:
+        # Inserta una columna 'id' en el DataFrame
         self.df.insert(0, 'id', self.df.index + 1)
-    
+
     def convert_to_datetime(self, column_name):
         """
-        Converts a column in the DataFrame to datetime type.
+        Convierte una columna en el DataFrame al tipo datetime.
 
-        Parameters:
-            column_name (str): The name of the column to convert.
+        Parámetros:
+            column_name (str): El nombre de la columna a convertir.
 
         Returns:
-            pandas.DataFrame: The DataFrame with the column converted to datetime type.
+            pandas.DataFrame: El DataFrame con la columna convertida a tipo datetime.
         """
         self.df[column_name] = pd.to_datetime(self.df[column_name], format='%Y').dt.year
         return self.df
 
-
-def categorize_column(df : pd.DataFrame, column_name : str, bins : list, labels : list) -> None:
+def categorize_column(df: pd.DataFrame, column_name: str, bins: list, labels: list) -> None:
     """
-    Categorizes a column in the DataFrame based on specified bins and labels.
+    Categoriza una columna en el DataFrame según los bins y etiquetas especificados.
 
-    Parameters:
-        df (pandas.DataFrame): The DataFrame.
-        column_name (str): The name of the column to categorize.
-        bins (list): The bin edges for categorization.
-        labels (list): The labels for the categories.
+    Parámetros:
+        df (pandas.DataFrame): El DataFrame.
+        column_name (str): El nombre de la columna a categorizar.
+        bins (list): Los bordes de los bins para la categorización.
+        labels (list): Las etiquetas para las categorías.
 
     Returns:
         None
     """
     df[column_name + '_category'] = pd.cut(df[column_name], bins=bins, labels=labels, right=False)
 
-
-
-def convert_duration(df : pd.DataFrame, new_column_name : str, column_name : str) -> None:
+def convert_duration(df: pd.DataFrame, new_column_name: str, column_name: str) -> None:
     """
-    Converts a duration column in milliseconds to a new column with format MM:SS.
+    Convierte una columna de duración en milisegundos a un nuevo formato MM:SS.
 
-    Parameters:
-        df (pandas.DataFrame): The DataFrame.
-        new_column_name (str): The name for the new duration column.
-        column_name (str): The name of the original duration column.
+    Parámetros:
+        df (pandas.DataFrame): El DataFrame.
+        new_column_name (str): El nombre para la nueva columna de duración.
+        column_name (str): El nombre de la columna original de duración.
 
     Returns:
         None
     """
     df[new_column_name] = pd.to_datetime(df[column_name], unit='ms').dt.strftime('%M:%S')
 
-
-def map_genre_to_category(df : pd.DataFrame) -> None:
+def map_genre_to_category(df: pd.DataFrame) -> None:
     """
-    Maps specific genres to broader categories and adds a new 'genre' column to the DataFrame.
+    Mapea géneros específicos a categorías más amplias y agrega una nueva columna 'genre' al DataFrame.
 
-    Parameters:
-        df (pandas.DataFrame): The DataFrame containing the 'track_genre' column.
+    Parámetros:
+        df (pandas.DataFrame): El DataFrame que contiene la columna 'track_genre'.
 
     Returns:
         None
@@ -79,5 +76,4 @@ def map_genre_to_category(df : pd.DataFrame) -> None:
     }
 
     genre_to_category = {genre: category for category, genres in genre_mapping.items() for genre in genres}
-
     df['genre'] = df['track_genre'].map(genre_to_category)

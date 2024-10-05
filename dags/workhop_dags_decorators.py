@@ -2,18 +2,34 @@ from datetime import datetime, timedelta
 from airflow.decorators import dag, task
 import sys
 import os
+from decouple import config
 
 # Agregar el directorio donde se encuentra el archivo etl.py
 sys.path.append(os.path.abspath('./dags'))
 
-from dags.etl import grammy_process, load_dataset_to_drive, load_merge, merge_datasets, read_spotify_data, transform_grammys_data, transform_spotify_data
-from etl import *  # Asegúrate de que este archivo contenga las funciones necesarias
+# Importar las funciones necesarias desde el archivo etl.py
+from dags.etl import (
+    grammy_process,
+    load_dataset_to_drive,
+    load_merge,
+    merge_datasets,
+    read_spotify_data,
+    transform_grammys_data,
+    transform_spotify_data
+)
+
+# Obtener el correo electrónico del .env
+email = config('EMAIL')
 
 # Definir las configuraciones predeterminadas para el DAG
 default_args = {
     'owner': 'airflow',
     'depends_on_past': False,
     'start_date': datetime(2024, 4, 20),
+    'email': [email],  # Usar la variable de correo electrónico aquí
+    'email_on_failure': True,
+    'email_on_retry': True,
+    'email_on_success': True,
     'retries': 1,
     'retry_delay': timedelta(minutes=1)
 }

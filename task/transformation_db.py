@@ -1,60 +1,62 @@
-import pandas as pd
-import re
-
+import pandas as pd  # Importar pandas
+import re  # Importar expresiones regulares
 
 def clean_and_fill_artist(df: pd.DataFrame) -> None:
     """
-    Clean and fill the DataFrame 'df' based on the defined patterns.
+    Limpiar y completar el DataFrame 'df' basado en los patrones definidos.
     
-    Parameters:
-        df (DataFrame): The DataFrame containing Grammy nominations information.
+    Parámetros:
+        df (DataFrame): El DataFrame que contiene la información de las nominaciones de los Grammy.
         
     Returns:
-        DataFrame: The cleaned and filled DataFrame.
+        None
     """
-    pd.set_option('future.no_silent_downcasting', True)
+    pd.set_option('future.no_silent_downcasting', True)  # Opción de pandas
 
     patterns = [
-        r'songwriters? \((.*?)\)',
-        r'([^,]+), soloist',
-        r'composer \((.*?)\)',
-        r'arrangers? \((.*?)\)',
-        r'\((.*?)\)' 
+        r'songwriters? \((.*?)\)',  # Patrón para extraer compositores
+        r'([^,]+), soloist',  # Patrón para solistas
+        r'composer \((.*?)\)',  # Patrón para compositores
+        r'arrangers? \((.*?)\)',  # Patrón para arreglistas
+        r'\((.*?)\)'  # Patrón general
     ]
 
-    extracted_nominees = []
+    extracted_nominees = []  # Lista para almacenar los nominados extraídos
 
+    # Extraer nominados según patrones
     for pattern in patterns:
         extracted_nominees.append(df['workers'].str.extract(pattern, flags=re.IGNORECASE))
 
-    df['extracted_nominee'] = pd.concat(extracted_nominees, axis=1).ffill(axis=1).iloc[:, -1]
+    df['extracted_nominee'] = pd.concat(extracted_nominees, axis=1).ffill(axis=1).iloc[:, -1]  # Combinar resultados
 
+    # Completar los artistas
     df['artist'] = df['artist'].fillna(df['extracted_nominee'])
 
-    df.drop(columns=['extracted_nominee'], inplace=True)
+    df.drop(columns=['extracted_nominee'], inplace=True)  # Eliminar la columna temporal
 
-
-def clean_and_fill_workers(df : pd.DataFrame) -> None:
+def clean_and_fill_workers(df: pd.DataFrame) -> None:
     """
-    Fill missing values in 'workers' column with corresponding values from 'artist' column
-    where 'artist' has a value and 'workers' is null.
+    Completar valores faltantes en la columna 'workers' con los valores correspondientes de la columna 'artist'
+    donde 'artist' tiene un valor y 'workers' es nulo.
 
-    Parameters:
-        df (DataFrame): The DataFrame containing Grammy nominations information.
+    Parámetros:
+        df (DataFrame): El DataFrame que contiene la información de las nominaciones de los Grammy.
 
     Returns:
-        DataFrame: The DataFrame with missing values in 'workers' filled.
+        None
     """
+    mask = df['artist'].notnull() & df['workers'].isnull()  # Máscara para seleccionar filas
 
-    mask = df['artist'].notnull() & df['workers'].isnull()
-
-    df.loc[mask, 'workers'] = df.loc[mask, 'artist']
+    df.loc[mask, 'workers'] = df.loc[mask, 'artist']  # Completar valores en 'workers'
 
 def rename_columns(df: pd.DataFrame, columns: dict) -> None:
     """
-    Renames the columns of the DataFrame.
+    Renombrar las columnas del DataFrame.
 
-    Parameters:
-        columns (dict): Dictionary with columns to be renamed.
+    Parámetros:
+        columns (dict): Diccionario con columnas a renombrar.
+    
+    Returns:
+        None
     """
-    df.rename(columns=columns, inplace=True)
+    df.rename(columns=columns, inplace=True)  # Renombrar columnas

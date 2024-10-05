@@ -5,10 +5,13 @@ from decouple import config
 print("Iniciando la conexión a la base de datos...")
 
 # Configuración de la cadena de conexión a PostgreSQL
-engine = create_engine(f"postgresql://{config('DB_USER')}:{config('DB_PASSWORD')}@{config('DB_HOST')}/{config('DB_NAME')}")
+engine = create_engine(
+    f"postgresql://{config('DB_USER')}:{config('DB_PASSWORD')}@{config('DB_HOST')}/{config('DB_NAME')}"
+)
 
 class DbConnection:
     def __init__(self, eng=engine):
+        # Inicializar la conexión con el motor de la base de datos
         self.engine = eng
 
 # Instancia de la conexión

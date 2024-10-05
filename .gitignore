@@ -13,9 +13,12 @@ __pycache__/
 
 # Ignorar archivos de bases de datos locales
 *.sqlite3
+*.db
 
 # Ignorar otros archivos y carpetas innecesarios
 *.log
 *.csv
 *.json
-/Airflow
+
+# Ignorar la carpeta Airflow
+/Airflow/
