@@ -6,6 +6,7 @@ import os
 # Agregar el directorio donde se encuentra el archivo etl.py
 sys.path.append(os.path.abspath('./dags'))
 
+from dags.etl import grammy_process, load_dataset_to_drive, load_merge, merge_datasets, read_spotify_data, transform_grammys_data, transform_spotify_data
 from etl import *  # Asegúrate de que este archivo contenga las funciones necesarias
 
 # Definir las configuraciones predeterminadas para el DAG

@@ -30,7 +30,7 @@ def grammy_process() -> json:
         GrammyAwards.__table__.create(connection)
         log.info("Table created successfully.")
 
-        transformations = Transformations('data/the_grammy_awards.csv')
+        transformations = transformations('D-Salamanca/workshop2/data/spotify_dataset.csv')
         transformations.insert_id()
         log.info("Data transformed successfully.")
 

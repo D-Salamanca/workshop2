@@ -1,0 +1,21 @@
+# Ignorar archivos de entorno
+.env
+
+# Ignorar directorios de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos de configuración del entorno
+*.env
+
+# Ignorar directorios de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar archivos de bases de datos locales
+*.sqlite3
+
+# Ignorar otros archivos y carpetas innecesarios
+*.log
+*.csv
+*.json
+/Airflow
